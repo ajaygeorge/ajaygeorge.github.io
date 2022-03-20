@@ -1,7 +1,6 @@
 # Setup
 title:               Ajay George Blog
-tagline:             'Blog about Code and Infrastructure'
-description:         'Blog about Code and Infrastructure. Made by <a href="https://twitter.com/ajaygeorge" target="_blank">@ajaygeorge</a>.'
+description:         'Made by <a href="https://twitter.com/ajaygeorge" target="_blank">@ajaygeorge</a>.'
 url:                 https://ajaygeorge.github.io/
 baseurl:             ''
 paginate:            5
